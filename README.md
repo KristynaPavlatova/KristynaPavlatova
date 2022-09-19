@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KristynaPavlatova
 - 👀 I’m interested in creating video games
-- 🌱 I’m currently learning physics programming and AI for cars
-- 💞️ I’m looking to become an intern in a company in Prague
+- 🌱 I’m currently working on VR project for Inria research institution
+- 💞️ I’m looking to become a XR developer (VR, AR)
 - 📫 How to reach me email: krpavlatova@gmail.com, facebook: Kristýna Pavlátová
 
 <!---
