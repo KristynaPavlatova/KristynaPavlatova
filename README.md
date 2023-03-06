@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KristynaPavlatova
 - 👀 I’m interested in creating video games
-- 🌱 I’m currently working on VR project for Inria research institution
+- 🌱 I’m currently working on Mixed Reality project creating Location-based game for VR arcade.
 - 💞️ I’m looking to become a XR developer (VR, AR)
 - 📫 How to reach me email: krpavlatova@gmail.com, facebook: Kristýna Pavlátová
 
