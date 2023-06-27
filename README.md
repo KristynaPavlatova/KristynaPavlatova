@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KristynaPavlatova
 - 👀 I’m interested in creating video games
 - 🌱 I’m currently working on Mixed Reality project creating Location-based game for VR arcade.
-- 💞️ I’m looking to become a XR developer (VR, AR)
-- 📫 How to reach me email: krpavlatova@gmail.com, discord: KristynaPavlatova#3709
+- 💞️ I'm a Unity XR developer (VR, AR)
+- 📫 How to reach me email: krpavlatova@gmail.com, Discord: kristyna.p.#3709
 
 <!---
 KristynaPavlatova/KristynaPavlatova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
