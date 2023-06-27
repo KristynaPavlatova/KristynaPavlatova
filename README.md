@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating video games
 - 🌱 I’m currently working on Mixed Reality project creating Location-based game for VR arcade.
 - 💞️ I'm a Unity XR developer (VR, AR)
-- 📫 How to reach me email: krpavlatova@gmail.com, Discord: kristyna.p.#3709
+- 📫 How to reach me email: krpavlatova@gmail.com, Discord: kristyna.p.#3709, other social media: carpe.die.m
 
 <!---
 KristynaPavlatova/KristynaPavlatova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
