@@ -2,9 +2,9 @@
 - 👀 I’m interested in game development, coding, and XR technology. 💞️
 - 🌱 I’m currently working on improving my skills in the above mentioned topics.
 - 📫 How to reach me:
--   email: krpavlatova@gmail.com
+-   Email: krpavlatova@gmail.com
 -   Discord: kristyna.p.#3709
--   other social media: carpe.die.m (@carpe.die.m)
+-   Other social media: carpe.die.m (@carpe.die.m)
 
 <!---
 KristynaPavlatova/KristynaPavlatova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
